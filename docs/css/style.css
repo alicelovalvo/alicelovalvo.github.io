@@ -7,6 +7,8 @@
 @import url("https://fonts.googleapis.com/css?family=Abhaya+Libre:400,700&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Bungee+Inline&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Bungee+Inline&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Calligraffitti&display=swap");
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -7064,7 +7066,7 @@ a.text-beige:hover, a.text-beige:focus {
     .hero1 {
       min-height: auto; } }
   .hero1 h1 {
-    font-family: "Bungee Inline"; }
+    font-family: "Calligraffitti"; }
   .hero1 .btn-text {
     font-size: 1.5rem; }
     .hero1 .btn-text:hover {
