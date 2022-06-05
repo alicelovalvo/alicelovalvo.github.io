@@ -334,7 +334,7 @@ h6, .h6 {
 .display-2 {
   font-size: 5.5rem;
   font-weight: 300;
-  line-height: 1.2; }
+  line-height: 2.2; }
 
 .display-3 {
   font-size: 4.5rem;
@@ -7051,7 +7051,7 @@ a.text-beige:hover, a.text-beige:focus {
     border-color: #dee2e6; } }
 
 .hero1 {
-  min-height: 80vh;
+  min-height: 100vh;
   padding: 50px 0;
   background-color: rgba(0, 0, 0, 0.5);
   background-blend-mode: darken;
