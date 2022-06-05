@@ -7053,7 +7053,7 @@ a.text-beige:hover, a.text-beige:focus {
     border-color: #dee2e6; } }
 
 .hero1 {
-  min-height: 100vh;
+  min-height: 80vh;
   padding: 50px 0;
   background-color: rgba(0, 0, 0, 0.5);
   background-blend-mode: darken;
